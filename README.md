@@ -122,7 +122,7 @@
 
 ## 📬 Let's Connect
 
-I'm actively seeking **Data Engineer**, **ML Engineer**, and **Data Analyst** roles in Australia.
+I'm actively seeking **Data Engineer**, **ML Engineer**, and **Data Analyst** roles in India and Australia.
 If you're hiring or want to collaborate — let's talk!
 
 <p align="center">
